@@ -1,1 +1,1 @@
-# First-Step-in-Rust
+# First-Step-in-Javascript
